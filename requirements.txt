@@ -1,0 +1,21 @@
+pandas
+streamlit 
+matplotlib
+numpy
+opencv-python-headless
+streamlit_drawable_canvas
+layout
+spacy == 2.2.4
+gensim
+plotnine
+tomotopy
+praw
+wordcloud
+sklearn
+scipy
+fbpca
+textblob
+seaborn
+plotly
+tweepy
+tensorflow
